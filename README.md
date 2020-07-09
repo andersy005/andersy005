@@ -5,7 +5,7 @@ I contribute to and maintain several libraries within the open source scientific
 - 🔭 I’m currently working on [dask](https://github.com/dask), [xarray](https://github.com/pydata/xarray), [intake-esm](https://github.com/intake/intake-esm), [pooch](https://github.com/fatiando/pooch)
 
 
-### If you like my work or the work I've ever done has positively impacted your work/organization, please consider donating to [NumFOCUS](https://github.com/sponsors/numfocus). 
+### If you like my work or the work I've ever done has positively impacted your work/organization, please consider sponsoring NumFOCUS through [GitHub Sponsors](https://github.com/sponsors/numfocus) or donating directly to [NumFOCUS](https://numfocus.org/donate).
 
 Santé 🥂 🍻
 <!--
