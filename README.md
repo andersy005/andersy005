@@ -2,7 +2,7 @@
 
 I contribute to and maintain several libraries within the open source scientific Python stack, particularly around improving scalability of Python tools in order to handle terabyte-scale datasets on HPC and cloud platforms.
 
-- 🔭 I’m currently working on [xarray](https://github.com/pydata/xarray), [dask](https://github.com/dask), [intake-esm](https://github.com/intake/intake-esm)
+- 🔭 I’m currently working on [dask](https://github.com/dask), [xarray](https://github.com/pydata/xarray), [intake-esm](https://github.com/intake/intake-esm), [pooch](https://github.com/fatiando/pooch)
 
 
 ### If you like my work or the work I've ever done has positively impacted your work/organization, please consider donating to [NumFOCUS](https://github.com/sponsors/numfocus). 
