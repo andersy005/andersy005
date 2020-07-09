@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, it's me 👋
 
 I contribute to and maintain several libraries within the open source scientific Python stack, particularly around improving scalability of Python tools in order to handle terabyte-scale datasets on HPC and cloud platforms.
 
