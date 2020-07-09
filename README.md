@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I contribute to and maintain several libraries within the open source scientific Python stack, particularly around improving scalability of Python tools in order to handle terabyte-scale datasets on HPC and cloud platforms.
+
+- 🔭 I’m currently working on [xarray](https://github.com/pydata/xarray), [dask](https://github.com/dask), [intake-esm](https://github.com/intake/intake-esm)
+
+
+### If you like my work or the work I've ever done has positively impacted your work/organization, please consider donating to [NumFOCUS](https://github.com/sponsors/numfocus). 
+
+Santé 🥂 🍻
 <!--
 **andersy005/andersy005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
