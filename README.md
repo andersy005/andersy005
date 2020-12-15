@@ -1,10 +1,6 @@
 I’ve been extremely lucky to work in realms that allow me to cross institutional and geographic boundaries to collaborate on tools and research software. More generally I contribute to and maintain several libraries within the open source scientific Python stack, particularly around improving scalability of Python tools in order to (1) handle terabyte-scale datasets on HPC and cloud platforms and (2) move science forward.
 
-
-
-As part of my work at the [National Center for Atmospheric Research](https://ncar.ucar.edu/), I am a core developer of [xarray](https://github.com/pydata/xarray)
-
-As part of my work at the National Center for Atmospheric Research, I am a core contributor to many projects in the PyData ecosystem, and in particular the following major projects:
+As part of my work at the [National Center for Atmospheric Research](https://ncar.ucar.edu/), I contribute to and maintain several libraries within the open source scientific Python stack. In particular I am a core contributor to the following major projects:
 
 - xarray -- an open source library providing high-level, easy-to-use data structures and analysis tools for working with multidimensional labeled datasets and arrays in Python.
 
