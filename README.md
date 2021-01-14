@@ -17,7 +17,6 @@ More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
 ### 🎥 Latest YouTube Videos
 
 <!-- YT-VIDEO-LIST:START -->
-
 - [Pangeo Use Case: Analyzing Initialized Climate Prediction System Datasets with climpred | CDPW 2020](https://www.youtube.com/watch?v=SKXUBD6DGao)
 - [Xarray Tutorial | xarray fundamentals](https://www.youtube.com/watch?v=a339Q5F48UQ)
 - [Intake-ESM -- Making It Easier To Consume Climate Data](https://www.youtube.com/watch?v=zjjpByZ0nOk)
