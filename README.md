@@ -16,6 +16,11 @@ I’ve been extremely lucky to work in realms that allow me to cross institution
 ### 🎥 Latest YouTube Videos
 
 <!-- YT-VIDEO-LIST:START -->
+- [Pangeo Use Case: Analyzing Initialized Climate Prediction System Datasets with climpred | CDPW 2020](https://www.youtube.com/watch?v=SKXUBD6DGao)
+- [Xarray Tutorial | xarray fundamentals](https://www.youtube.com/watch?v=a339Q5F48UQ)
+- [Intake-ESM -- Making It Easier To Consume Climate Data](https://www.youtube.com/watch?v=zjjpByZ0nOk)
+- [Interactive Supercomputing with Dask-Jobqueue, Dask, and Jupyter](https://www.youtube.com/watch?v=QUzFis0VZac)
+- [Accessing JupyterHub running on Cheyenne Supercomputer.](https://www.youtube.com/watch?v=dlrtt74FMCs)
 <!-- YT-VIDEO-LIST:END -->
 
 
