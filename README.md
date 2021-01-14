@@ -5,7 +5,6 @@ I’ve been extremely lucky to work in realms that allow me to cross institution
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to set up a wildcard subdomain on Google Domains](https://blog.andersonbanihirwe.dev/posts/2021/google-dynamic-dns-wildcard-subdomains/)
 - [How to merge two or more disk partitions on Centos 7](https://blog.andersonbanihirwe.dev/posts/2021/how-to-merge-disk-partitions-on-centos/)
 - [On Maurice Hilleman](https://blog.andersonbanihirwe.dev/posts/2020/maurice-hilleman/)
