@@ -4,7 +4,7 @@ on:
     branches: ['master']
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Daily “At 00:00”
+    - cron: '0 0 * * 6' # At 00:00 on Saturday
 
 jobs:
   update-readme:
@@ -12,11 +12,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: khaosdoctor/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG-POST-LIST
           feed_list: 'https://blog.andersonbanihirwe.dev/posts/atom.xml'
+          commit_message: Updated with the latest blog posts
+          committer_email: action@github.com
+          committer_username: GitHub Action
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: YT-VIDEO-LIST
           feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCb8F9w9OHjRize4-MDbwRMw'
+          commit_message: Updated with the latest YouTube videos
+          committer_email: action@github.com
+          committer_username: GitHub Action
