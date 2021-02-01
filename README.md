@@ -1,5 +1,6 @@
 ## Coucou 👋
 
+
 I’ve been extremely lucky to work in realms that allow me to cross institutional and geographic boundaries to collaborate on tools and research software. More generally I contribute to and maintain several libraries within the open source scientific Python stack, particularly around improving scalability of Python tools in order to (1) handle terabyte-scale datasets on HPC and cloud platforms and (2) move science forward.
 
 ### 📝 Latest Blog Posts
@@ -25,5 +26,7 @@ More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
 <!-- YT-VIDEO-LIST:END -->
 
 Santé 🥂 🍻
+
+<img src="custom-octocat.png" alt="custom-octocat" width="128px" align="center" />
 
 <a href="https://github.com/andersy005/andersy005/actions"><img src="https://github.com/andersy005/andersy005/workflows/update-readme/badge.svg" align="right" alt="Build README"></a>
