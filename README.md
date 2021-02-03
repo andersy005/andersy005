@@ -18,11 +18,11 @@ More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
 ### 🎥 Latest YouTube Videos
 
 <!-- YT-VIDEO-LIST:START -->
+- [Package Management with conda | Episode 3 - Creating and accessing a new conda environment](https://www.youtube.com/watch?v=W4Jb6rY1w1w)
+- [Package Management with conda | Episode 1 - How to install conda on Cheyenne/Casper supercomputer](https://www.youtube.com/watch?v=GGxUgjlmW2A)
+- [Package Management with conda | Episode 2 - Updating base environment & adjusting conda settings](https://www.youtube.com/watch?v=xeuNsCKWBbM)
 - [Pangeo Use Case: Analyzing Initialized Climate Prediction System Datasets with climpred | CDPW 2020](https://www.youtube.com/watch?v=SKXUBD6DGao)
 - [Xarray Tutorial | xarray fundamentals](https://www.youtube.com/watch?v=a339Q5F48UQ)
-- [Intake-ESM -- Making It Easier To Consume Climate Data](https://www.youtube.com/watch?v=zjjpByZ0nOk)
-- [Interactive Supercomputing with Dask-Jobqueue, Dask, and Jupyter](https://www.youtube.com/watch?v=QUzFis0VZac)
-- [Accessing JupyterHub running on Cheyenne Supercomputer.](https://www.youtube.com/watch?v=dlrtt74FMCs)
 <!-- YT-VIDEO-LIST:END -->
 
 Santé 🥂 🍻
