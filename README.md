@@ -6,11 +6,11 @@ I’ve been extremely lucky to work in realms that allow me to cross institution
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [« Mesdames » - Parce que l’avenir appartient à celles qu’on aime trop 🎶](https://blog.andersonbanihirwe.dev/posts/2021/mesdames/)
 - [How to Generate Wildcard SSL Certificate using Let’s Encrypt/Certbot on CentOS](https://blog.andersonbanihirwe.dev/posts/2021/lets-encrypt-wildcard-ssl-certificate-on-centos/)
 - [🚀 Xarray v0.17.0 is here!](https://blog.andersonbanihirwe.dev/posts/2021/new-in-xarray-v0.17/)
 - [Freedom of Cryptography](https://blog.andersonbanihirwe.dev/posts/2021/freedom-of-cryptography/)
 - [Function Expressions in JavaScript](https://blog.andersonbanihirwe.dev/posts/2021/function-expressions-in-js/)
-- [How to set up a wildcard subdomain on Google Domains](https://blog.andersonbanihirwe.dev/posts/2021/google-dynamic-dns-wildcard-subdomains/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
