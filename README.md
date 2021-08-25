@@ -1,9 +1,9 @@
-## Coucou 👋 🌎
+# Coucou 👋 🌎
 
 
 I’ve been extremely fortunate to work in realms that allow me to cross institutional and geographic boundaries to collaborate on tools and research software. More generally I contribute to and maintain several libraries within the open source scientific Python stack, particularly around improving scalability of Python tools in order to (1) handle terabyte-scale datasets on HPC and cloud platforms and (2) move science forward.
 
-### 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Dictionary Merge and Update Operators in Python 3.9](https://blog.andersonbanihirwe.dev/posts/2021/dictionary-merge-and-update-operators/)
@@ -15,7 +15,7 @@ I’ve been extremely fortunate to work in realms that allow me to cross institu
 
 More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
 
-### 🎥 Latest YouTube Videos
+## 🎥 Latest YouTube Videos
 
 <!-- YT-VIDEO-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W4Jb6rY1w1w"><img width="140px" src="https://i.ytimg.com/vi/W4Jb6rY1w1w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W4Jb6rY1w1w">Package Management with conda | Episode 3 - Creating and accessing a new conda environment</a><br/>Feb 2, 2021</td></tr></table>
