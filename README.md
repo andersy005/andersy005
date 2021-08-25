@@ -17,12 +17,16 @@ More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YT-VIDEO-LIST:START -->
-- [Package Management with conda | Episode 3 - Creating and accessing a new conda environment](https://www.youtube.com/watch?v=W4Jb6rY1w1w)
-- [Package Management with conda | Episode 1 - How to install conda on Cheyenne/Casper supercomputer](https://www.youtube.com/watch?v=GGxUgjlmW2A)
-- [Package Management with conda | Episode 2 - Updating base environment & adjusting conda settings](https://www.youtube.com/watch?v=xeuNsCKWBbM)
-- [Pangeo Use Case: Analyzing Initialized Climate Prediction System Datasets with climpred | CDPW 2020](https://www.youtube.com/watch?v=SKXUBD6DGao)
-- [Xarray Tutorial | xarray fundamentals](https://www.youtube.com/watch?v=a339Q5F48UQ)
+<!-- YT-VIDEO-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W4Jb6rY1w1w"><img width="140px" src="https://i.ytimg.com/vi/W4Jb6rY1w1w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W4Jb6rY1w1w">Package Management with conda | Episode 3 - Creating and accessing a new conda environment</a><br/>Feb 2, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GGxUgjlmW2A"><img width="140px" src="https://i.ytimg.com/vi/GGxUgjlmW2A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GGxUgjlmW2A">Package Management with conda | Episode 1 - How to install conda on Cheyenne/Casper supercomputer</a><br/>Feb 2, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xeuNsCKWBbM"><img width="140px" src="https://i.ytimg.com/vi/xeuNsCKWBbM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xeuNsCKWBbM">Package Management with conda | Episode 2 - Updating base environment & adjusting conda settings</a><br/>Feb 2, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SKXUBD6DGao"><img width="140px" src="https://i.ytimg.com/vi/SKXUBD6DGao/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SKXUBD6DGao">Pangeo Use Case: Analyzing Initialized Climate Prediction System Datasets with climpred | CDPW 2020</a><br/>Oct 20, 2020</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=a339Q5F48UQ"><img width="140px" src="https://i.ytimg.com/vi/a339Q5F48UQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=a339Q5F48UQ">Xarray Tutorial | xarray fundamentals</a><br/>Oct 6, 2020</td></tr></table>
 <!-- YT-VIDEO-LIST:END -->
 
 Santé 🥂 🍻
