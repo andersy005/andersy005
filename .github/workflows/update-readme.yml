@@ -21,7 +21,10 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: YT-VIDEO-LIST
-          feed_list: 'https://www.youtube.com/channel/UCb8F9w9OHjRize4-MDbwRMw'
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCb8F9w9OHjRize4-MDbwRMw"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           commit_message: Updated with the latest YouTube videos
           committer_email: action@github.com
           committer_username: GitHub Action
