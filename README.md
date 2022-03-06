@@ -6,11 +6,11 @@ I’ve been extremely fortunate to work in realms that allow me to cross institu
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [« Multitude de Stromae » - Des morceaux aussi forts sur des sujets si primordials 🎶](https://blog.andersonbanihirwe.dev/posts/2022/multitude/)
 - [Dictionary Merge and Update Operators in Python 3.9](https://blog.andersonbanihirwe.dev/posts/2021/dictionary-merge-and-update-operators/)
 - [« Mesdames » - Parce que l’avenir appartient à celles qu’on aime trop 🎶](https://blog.andersonbanihirwe.dev/posts/2021/mesdames/)
 - [How to Generate Wildcard SSL Certificate using Let’s Encrypt/Certbot on CentOS](https://blog.andersonbanihirwe.dev/posts/2021/lets-encrypt-wildcard-ssl-certificate-on-centos/)
 - [🚀 Xarray v0.17.0 is here!](https://blog.andersonbanihirwe.dev/posts/2021/new-in-xarray-v0.17/)
-- [Freedom of Cryptography](https://blog.andersonbanihirwe.dev/posts/2021/freedom-of-cryptography/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [blog.andersonbanihirwe.dev](https://blog.andersonbanihirwe.dev)
