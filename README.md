@@ -1,7 +1,7 @@
 # Coucou 👋 🌎
 
 
-As a software engineer, it has been extremely rewarding for me to work across institutional and geographical boundaries to collaborate on research tools and software. I am currently employed by [@CarbonPlan](https://carbonplan.org/), a non-profit working on data science and policy issues surrounding carbon removal and climate solutions. 
+As a software engineer, it has been extremely rewarding for me to work across institutional and geographical boundaries to collaborate on research tools and software. I am currently employed by [@CarbonPlan](https://carbonplan.org/), a non-profit working on open data science tools and climate policy issues surrounding carbon removal and climate solutions.
 
 Also, I am an advocate for and contributor to open-source software. In the scientific Python data ecosystem, I help maintain Xarray, dask-jobqueue, and a few other packages.
 
