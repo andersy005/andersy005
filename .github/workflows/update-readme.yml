@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@1.9.2
+      - uses: gautamkrishnar/blog-post-workflow@1.9.4
         with:
           comment_tag_name: BLOG-POST-LIST
           feed_list: 'https://blog.andersonbanihirwe.dev/posts/atom.xml'
           commit_message: Updated with the latest blog posts
           committer_email: action@github.com
           committer_username: GitHub Action
-      - uses: gautamkrishnar/blog-post-workflow@1.9.2
+      - uses: gautamkrishnar/blog-post-workflow@1.9.4
         with:
           comment_tag_name: YT-VIDEO-LIST
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCb8F9w9OHjRize4-MDbwRMw"
